@@ -1,19 +1,23 @@
 import React from 'react'
-import Banner from '../components/Ourproducts/Banner'
-import Content from '../components/Ourproducts/content'
-import Products from '../components/Ourproducts/product'
+import Content from '../components/Ourproducts/ProductCategoriesSection'
+import Products from '../components/Ourproducts/Product'
 import Whychoose from '../components/Ourproducts/Whychoose'
 import Productsilder from '../components/Productsilder'
 import Footer from '../components/Footer'
+import ContactSection from '../components/ContactSection'
+import ProductHeroSection from '../components/Ourproducts/ProductHeroSection'
+import FeaturedProductsSection from '../components/Ourproducts/FeaturedProductsSection'
 const OurProducts = () => {
   return (
     <>
-    <Banner />
+    <ProductHeroSection />
     <Content />
+    <FeaturedProductsSection />
     <Products />
     <Whychoose  />
     <Productsilder />
-    <Footer/>
+    <ContactSection/>
+    
     </>
   )
 }

@@ -1,0 +1,40 @@
+[
+ 
+    {
+      "id": "turmeric-powder",
+      "name": "Turmeric Powder",
+      "image": "/images/turmericpowder.jpg",
+      "description": "Turmeric powder is a bright yellow spice made by grinding dried roots of the Curcuma longa plant. Widely known for its earthy aroma and warm, slightly bitter flavor, turmeric is a staple in Indian, Southeast Asian, and Middle Eastern cuisines. It is also valued for its natural coloring properties and is often used in curries, rice dishes, and marinades."
+    },
+    {
+      "id": "red-chilli-powder",
+      "name": "Red Chilli Powder",
+      "image": "/images/chilli.jpg",
+      "description": "Spicy and vibrant red chilli powder perfect for all dishes."
+    },
+    {
+      "id": "coriander-powder",
+      "name": "Coriander Powder",
+      "image": "/images/coriander.jpg",
+      "description": "Fresh and aromatic coriander powder made from premium seeds."
+    },
+    {
+      "id": "black-pepper",
+      "name": "Black Pepper",
+      "image": "/images/blackpepper.jpg",
+      "description": "Whole black pepper for strong, bold flavor."
+    },
+    {
+      "id": "fennel-seeds",
+      "name": "Fennel Seeds",
+      "image": "/images/fennel.jpg",
+      "description": "Sweet and aromatic fennel seeds for cooking and digestion."
+    },
+    {
+      "id": "cumin-seeds",
+      "name": "Cumin Seeds",
+      "image": "/images/cumin.jpg",
+      "description": "Earthy, nutty cumin seeds used in a variety of dishes."
+    }
+  ]
+  
