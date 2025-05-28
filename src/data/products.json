@@ -9,32 +9,32 @@
     {
       "id": "red-chilli-powder",
       "name": "Red Chilli Powder",
-      "image": "/images/chilli.jpg",
-      "description": "Spicy and vibrant red chilli powder perfect for all dishes."
+      "image": "/images/redchilli.png",
+      "description": "Red Chilli Powder is a vibrant and fiery spice made from dried red chillies, finely ground to perfection. It is a key ingredient in many Indian and international cuisines, known for adding heat, color, and a bold flavor to curries, stews, marinades, snacks, and sauces.Available in various levels of spiciness, red chilli powder not only enhances the taste but also boosts metabolism and is rich in vitamin C and antioxidants. Whether you're aiming for a subtle warmth or intense spice, red chilli powder brings the perfect punch to your culinary creations."
     },
     {
       "id": "coriander-powder",
       "name": "Coriander Powder",
-      "image": "/images/coriander.jpg",
-      "description": "Fresh and aromatic coriander powder made from premium seeds."
+      "image": "/images/corianderpowder.jpg",
+      "description": "Coriander Powder (also known as Dhania Powder) is a fragrant, earthy spice made by grinding dried coriander seeds. Widely used in Indian, Middle Eastern, Asian, and Latin cuisines, coriander powder adds a mild citrusy and nutty flavor to curries, gravies, marinades, and spice blends.Rich in antioxidants, it not only enhances taste but also offers digestive and anti-inflammatory benefits. Whether you're preparing traditional dishes or experimenting with fusion recipes, coriander powder is an essential pantry staple that brings depth and warmth to your cooking."
     },
     {
       "id": "black-pepper",
       "name": "Black Pepper",
-      "image": "/images/blackpepper.jpg",
-      "description": "Whole black pepper for strong, bold flavor."
+      "image": "/images/black-pepper-.png",
+      "description": "Black Pepper, often referred to as the King of Spices, is one of the most widely used and valued spices in the world. Made from dried peppercorns, it offers a sharp, pungent flavor with a hint of heat that enhances the taste of both savory and some sweet dishes.Used whole, crushed, or ground, black pepper adds depth and aroma to soups, curries, marinades, salads, and more. Rich in antioxidants and known for its digestive benefits, it also contains piperine, which may enhance nutrient absorption. A kitchen essential, black pepper is perfect for everyday seasoning and gourmet cooking alike.."
     },
     {
       "id": "fennel-seeds",
       "name": "Fennel Seeds",
-      "image": "/images/fennel.jpg",
-      "description": "Sweet and aromatic fennel seeds for cooking and digestion."
+      "image": "/images/FennelSeeds.jpg",
+      "description": "Fennel Seeds are aromatic, sweet-tasting seeds derived from the fennel plant (Foeniculum vulgare). Popular in Indian, Middle Eastern, and Mediterranean cuisines, they are used for their distinctive licorice-like flavor and pleasant aroma. Fennel seeds enhance the taste of curries, pickles, spice blends, and even desserts.Rich in fiber, antioxidants, and essential oils, they are also known for aiding digestion, reducing bloating, and freshening breath. Whether used whole, roasted, or ground, fennel seeds are a flavorful and health-boosting addition to your spice collection."
     },
     {
       "id": "cumin-seeds",
       "name": "Cumin Seeds",
-      "image": "/images/cumin.jpg",
-      "description": "Earthy, nutty cumin seeds used in a variety of dishes."
+      "image": "/images/CuminSeeds.png",
+      "description": "Cumin Seeds (Jeera) are aromatic, earthy-flavored seeds derived from the Cuminum cyminum plant. A staple in Indian, Middle Eastern, Latin American, and Mediterranean cuisines, cumin seeds add a warm, slightly peppery taste with a hint of citrus to dishes like curries, rice, soups, and spice blends.These small, ridged seeds are not only flavorful but also packed with health benefits. Rich in iron, antioxidants, and known for supporting digestion and boosting immunity, cumin seeds are often dry-roasted or tempered in hot oil to release their full aroma and flavor.Whether used whole or ground, cumin seeds are a must-have spice in every kitchen."
     }
   ]
   

@@ -151,8 +151,8 @@ const Footer = () => {
                 <FaPhoneAlt className="text-yellow-600 mt-1 mr-2 flex-shrink-0" />
                 <div>
                   <p className="font-semibold">Phone:</p>
-                  <a href="tel:+919840605676" className="block hover:text-yellow-600 transition">+91 9840605676</a>
-                  <a href="tel:+919994595899" className="block hover:text-yellow-600 transition">+91 9994595899</a>
+                  <a href="tel:+918610989876" className="block hover:text-yellow-600 transition">+91 8610989876</a>
+                  <a href="tel:+918610989876" className="block hover:text-yellow-600 transition">+91 8610989876</a>
                 </div>
               </div>
               
@@ -168,7 +168,7 @@ const Footer = () => {
               
               <div className="pt-2">
                 <a 
-                  href="https://wa.me/919840605676" 
+                  href="https://wa.me/8610989876" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="inline-flex items-center bg-green-600 text-white px-3 py-1 rounded-full text-sm hover:bg-green-700 transition"

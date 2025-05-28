@@ -15,7 +15,7 @@ const About = () => {
     <WhatMakesUsDifferent />
     <VisionMission />
     <OurProcess />
-    <TeamSection />
+    {/* <TeamSection /> */}
     <ContactSection />
     
     </>

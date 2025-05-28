@@ -1,3 +1,4 @@
+// Header.jsx
 import React, { useState, useEffect, useRef } from "react";
 import { NavLink, useLocation } from "react-router-dom";
 import vaigai_logo from "../assets/images/vaigai_spices_logo.jpeg";
@@ -57,7 +58,7 @@ const Header = () => {
   ];
 
   return (
-    <header 
+    <header
       className={`sticky top-0 z-50 transition-all duration-300 ease-in-out ${
         scrolled ? "bg-white shadow-lg py-2" : "bg-[#FDF6EE] shadow-md py-4"
       }`}
@@ -65,7 +66,7 @@ const Header = () => {
       <div className="container mx-auto px-4 xl:px-12 lg:px-8 md:px-6">
         <div className="flex items-center justify-between relative">
           {/* Logo Section */}
-          <motion.div 
+          <motion.div
             className="flex items-center gap-3"
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
@@ -102,7 +103,7 @@ const Header = () => {
             ))}
 
             {/* Products Dropdown */}
-            <motion.div 
+            <motion.div
               className="relative group"
               whileHover={{ scale: 1.05 }}
               ref={productsRef}
@@ -121,7 +122,6 @@ const Header = () => {
                 <ChevronDown className="w-4 h-4 mt-0.5 group-hover:rotate-180 transition-transform" />
               </NavLink>
 
-              {/* Desktop Submenu - Right-aligned to prevent overflow */}
               <motion.div
                 initial={{ opacity: 0, y: -10 }}
                 animate={{ opacity: 0, y: -10 }}
@@ -223,6 +223,14 @@ const Header = () => {
                         transition={{ duration: 0.2 }}
                         className="pl-6"
                       >
+                        <motion.li>
+                          <NavLink
+                            to="/OurProducts"
+                            className="block px-4 py-2 rounded-md text-[#333] hover:text-[#8E5B3C] hover:bg-[#f4e4d9]/50 font-medium"
+                          >
+                            View All Products
+                          </NavLink>
+                        </motion.li>
                         {products.map((item) => (
                           <motion.li
                             key={item.id}
